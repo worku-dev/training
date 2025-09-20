@@ -1,0 +1,1 @@
+print('abebe beso bela')
